@@ -1,0 +1,1 @@
+{"name":"acct-plug_bot","version":"1.0.0","description":"plug bot","main":"index.js","scripts":{"start":"node index.js","dev":"nodemon index.js"},"keywords":["bot","plug"],"author":"Danger-ship-it","license":"ISC","dependencies":{"discord.js":"^14.0.0"},"devDependencies":{"nodemon":"^3.0.0"}}
