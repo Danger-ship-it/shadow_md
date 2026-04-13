@@ -1,1 +1,13 @@
-{"name":"acct-plug_bot","version":"1.0.0","description":"plug bot","main":"index.js","scripts":{"start":"node index.js","dev":"nodemon index.js"},"keywords":["bot","plug"],"author":"Danger-ship-it","license":"ISC","dependencies":{"discord.js":"^14.0.0","dotenv":"^17.4.1"},"devDependencies":{"nodemon":"^3.0.0"}}
+{
+  "name": "shadow-md",
+  "version": "1.0.0",
+  "description": "SHADOW MD - Multi-utility Telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}
